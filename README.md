@@ -1,7 +1,7 @@
 # Calendario-academico-2016---UDESC
 
 # Razão para a criação  
-Afim de prover mais maior facilidade aos acadêmicos resolvi criar um arquivo de calendário eletrônico a partir do Calendário Acadêmico 2016. Para que os mesmos possam ter acesso a notificações em tempo real de datas do período letivo em computadores, em notebooks, smartphones e demais dispositivos eletronicos que possuam aplicativos de calendário eletrônico.
+Afim de prover mais maior facilidade aos meus colegas e amigos acadêmicos, resolvi criar um arquivo de calendário eletrônico a partir do Calendário Acadêmico 2016. Para que os mesmos possam ter acesso a notificações em tempo real de datas do período letivo em computadores, notebooks, smartphones e demais dispositivos eletronicos que possuam aplicativos de calendário eletrônico.
 
 # A respeito do arquivo de calendário eletrônico  
 - Arquivo no formato ICS  
