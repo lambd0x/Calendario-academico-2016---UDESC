@@ -1,2 +1,13 @@
 # Calendario-academico-2016---UDESC
-Arquivo .ics com encodficação UTF-8 (portável para qualquer OS) do calendário acadêmico da UDESC 2016 que pode ser usado em conjunto com um calendário eletrônico online como o provido pela Google, local ou um cliente de email com integração a um calendário eletrônico como Thunderbird, Seamonkey e etc.
+
+# Razão para a criação  
+Afim de prover mais maior facilidade aos acadêmicos resolvi criar um arquivo de calendário eletrônico a partir do Calendário Acadêmico 2016. Para que os mesmos possam ter acesso a notificações em tempo real de datas do período letivo em computadores, em notebooks, smartphones e demais dispositivos eletronicos que possuam aplicativos de calendário eletrônico.
+
+# A respeito do arquivo de calendário eletrônico  
+- Arquivo no formato ICS  
+- Encodficação de caracteres UTF-8 (portável)  
+- Compatível com qualquer aplicatvo de calendário eletrônico  
+
+# Sugestões de uso 
+- Serviço de calendário online provido pela Google. (Sujeito a suas políticas de privacidade)  
+- Cliente de email com integração a um calendário eletrônico como Thunderbird, Seamonkey e etc. (ideal)  
