@@ -5,7 +5,7 @@ Afim de prover mais maior facilidade aos meus colegas e amigos acadêmicos, reso
 
 # A respeito do arquivo de calendário eletrônico  
 - Arquivo no formato ICS  
-- Encodficação de caracteres UTF-8 (portável)  
+- Encodificação de caracteres UTF-8 (portável)  
 - Compatível com qualquer aplicatvo de calendário eletrônico  
 
 # Sugestões de uso 
