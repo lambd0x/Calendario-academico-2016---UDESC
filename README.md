@@ -6,7 +6,7 @@ Afim de prover mais maior facilidade aos meus colegas e amigos acadêmicos, reso
 # A respeito do arquivo de calendário eletrônico  
 - Arquivo no formato ICS  
 - Encodificação de caracteres UTF-8 (portável)  
-- Compatível com qualquer aplicatvo de calendário eletrônico  
+- Compatível com qualquer aplicativo de calendário eletrônico  
 
 # Sugestões de uso 
 - Serviço de calendário online provido pela Google. (Sujeito a suas políticas de privacidade)  
