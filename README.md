@@ -1,7 +1,7 @@
 # Calendario-academico---UDESC
 
 # Razão para a criação  
-Afim de prover maior organização com datas e eventos importantes no decorrer dos semestres da UDESC, foi criado um arquivo de calendário eletrônico a partir do Calendário Acadêmico anualmente provido pela UDESC. Para que os interessados, basta importar o arquivo desejado para um cliente de email/calendário (e.g, Thunderbird, Google Calendar, etc.). 
+A fim de prover maior organização com datas e eventos importantes no decorrer dos semestres da UDESC, foi criado um arquivo de calendário eletrônico a partir do Calendário Acadêmico anualmente provido pela UDESC. 
 
 # Características presentes
 O arquivo contém todas as datas do calendário com as seguintes notificações  
@@ -13,10 +13,14 @@ O arquivo contém todas as datas do calendário com as seguintes notificações
 - Encodificação de caracteres UTF-8 (portável)  
 - Compatível com qualquer aplicativo de calendário eletrônico/email  
 
-# Sugestões de uso 
+# Sugestões de aplicações
 - Serviço de calendário online provido pela Google. (Sujeito a suas políticas de privacidade)  
-- Cliente de email com integração para calendário eletrônico como Thunderbird, Seamonkey e etc. (ideal)  
+- Cliente de email com integração para calendário eletrônico (_e.g._, Thunderbird, Seamonkey, _etc._).  
 
+# Modo de uso
+Basta importar o arquivo desejado para uma aplicação tal como fora mencionado acima.  
+
+# Versões atualmente disponíveis 
 |  Ano  | Status     |
 | :---: | :---:      |
 | 2016  | disponível |
