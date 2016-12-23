@@ -1,0 +1,3870 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendário Acadêmico 2017
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170220
+DTEND;VALUE=DATE:20170222
+DTSTAMP:20161223T195631Z
+UID:ueugs7jmd5e9o04oruh7980isk@google.com
+CREATED:20161223T162924Z
+DESCRIPTION:Período para solicitação pelos acadêmicos de ajustePeríodo para
+  realização de exame de suficiência\n
+LAST-MODIFIED:20161223T162924Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170220
+DTEND;VALUE=DATE:20170222
+DTSTAMP:20161223T195631Z
+UID:oejdsb7au021g1pn3ut2315e18@google.com
+CREATED:20161223T154522Z
+DESCRIPTION:Período para solicitação pelos acadêmicos de ajuste de matrícul
+ a via secretaria de Ensino de Graduação/dpto do curso\n
+LAST-MODIFIED:20161223T162933Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170220
+DTEND;VALUE=DATE:20170221
+DTSTAMP:20161223T195631Z
+UID:389g71i4p4b1b19ce5n5b6h93g@google.com
+CREATED:20161223T154407Z
+DESCRIPTION:Início do período letivo\n
+LAST-MODIFIED:20161223T162940Z
+LOCATION:CCT-UDESC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170218
+DTEND;VALUE=DATE:20170221
+DTSTAMP:20161223T195631Z
+UID:dh2bm13bdmfjc599igf1e3bqg0@google.com
+CREATED:20161223T154220Z
+DESCRIPTION:Período para ajuste de matrícula on-line pelos acadêmicos\n
+LAST-MODIFIED:20161223T162946Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Detalhes)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170216
+DTEND;VALUE=DATE:20170222
+DTSTAMP:20161223T195631Z
+UID:g21re7us36sh875g2v60euc5n0@google.com
+CREATED:20161223T154021Z
+DESCRIPTION:Período de matrícula de acadêmicos em mobilidade para a Udesc\n
+LAST-MODIFIED:20161223T162953Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170214
+DTEND;VALUE=DATE:20170218
+DTSTAMP:20161223T195631Z
+UID:c4fhiriau67an8gitc27kvk154@google.com
+CREATED:20161223T153757Z
+DESCRIPTION:Período de matrícula de veteranos de acordo com critérios de or
+ denação - CCT e CAV\n
+LAST-MODIFIED:20161223T163002Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170213
+DTEND;VALUE=DATE:20170215
+DTSTAMP:20161223T195631Z
+UID:ejp4ri59ndkqlqb1a81ut7brt8@google.com
+CREATED:20161223T153346Z
+DESCRIPTION:Período para requerer Exame de suficiência\n
+LAST-MODIFIED:20161223T163010Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170213
+DTEND;VALUE=DATE:20170218
+DTSTAMP:20161223T195631Z
+UID:85thd2unutifj76d969uqqkmko@google.com
+CREATED:20161223T153547Z
+DESCRIPTION:Semana de Educação Continuada nos centros\n
+LAST-MODIFIED:20161223T163016Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170208
+DTEND;VALUE=DATE:20170219
+DTSTAMP:20161223T195631Z
+UID:odd9dj8r9pebsfa65o8i9k456k@google.com
+CREATED:20161223T152856Z
+DESCRIPTION:Operação do Núcleo Rondon Udesc 2017/1\n
+LAST-MODIFIED:20161223T163022Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170208
+DTEND;VALUE=DATE:20170213
+DTSTAMP:20161223T195631Z
+UID:lt2tvngfjceitai11trdkvcn3o@google.com
+CREATED:20161223T153059Z
+DESCRIPTION:Operação do Núcleo Rondon Udesc 2017/1\nPeríodo de matrícula de
+  veteranos de acordo com critérios de ordenação\n– Ceart\, Cefid\, Esag\, F
+ aed\, Ceplan\, Cead\, CEO\, Ceavi\, Cesfi e Ceres.\n
+LAST-MODIFIED:20161223T163027Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170206
+DTEND;VALUE=DATE:20170207
+DTSTAMP:20161223T195631Z
+UID:faninr6msmvan0u89nstvr2o2k@google.com
+CREATED:20161223T152341Z
+DESCRIPTION:Último dia para recebimento\, pela PROPPG\, dos processos de pó
+ s-graduação para aprovação junto ao Consepe\n
+LAST-MODIFIED:20161223T163049Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170206
+DTEND;VALUE=DATE:20170208
+DTSTAMP:20161223T195631Z
+UID:jfr9j535ljjh4qegqs3nsddi3k@google.com
+CREATED:20161223T152609Z
+DESCRIPTION:Período de matrícula de calouros 1ª chamada do Vestibular Udesc
+  2017/1\n
+LAST-MODIFIED:20161223T163056Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170220
+DTEND;VALUE=DATE:20170225
+DTSTAMP:20161223T195631Z
+UID:c73rank5uqtsj4v0hdtg9359fo@google.com
+CREATED:20161223T163225Z
+DESCRIPTION:Período de matrícula de ingressantes e veteranos da pós-graduaç
+ ão stricto sensu\n
+LAST-MODIFIED:20161223T163226Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170222
+DTEND;VALUE=DATE:20170223
+DTSTAMP:20161223T195631Z
+UID:1pe5g2ui5sgmcjb5f3h3uhc4rc@google.com
+CREATED:20161223T163358Z
+DESCRIPTION:Reunião do Consepe\n
+LAST-MODIFIED:20161223T163358Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170223
+DTEND;VALUE=DATE:20170225
+DTSTAMP:20161223T195631Z
+UID:0v4nrainr3ogupcgrfml6d6eqc@google.com
+CREATED:20161223T163631Z
+DESCRIPTION:Período de matrícula dos acadêmicos que ingressam na Udesc por 
+ transferência externa\, transferência interna\, retornos e reingressos para
+  2017/1\n
+LAST-MODIFIED:20161223T163631Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170228
+DTEND;VALUE=DATE:20170301
+DTSTAMP:20161223T195631Z
+UID:6a5jsms557kt6jig13s81hofrg@google.com
+CREATED:20161223T164029Z
+DESCRIPTION:FERIADO NACIONAL – CARNAVAL (terça-feira)\n
+LAST-MODIFIED:20161223T164029Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170227
+DTEND;VALUE=DATE:20170228
+DTSTAMP:20161223T195631Z
+UID:27k963r6qmdvq9tvebuqqlh3is@google.com
+CREATED:20161223T163804Z
+DESCRIPTION:FERIADO ESCOLAR (segunda-feira)\n
+LAST-MODIFIED:20161223T164210Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170301
+DTEND;VALUE=DATE:20170302
+DTSTAMP:20161223T195631Z
+UID:lmqfbviqm1nko5up8tj00r8dao@google.com
+CREATED:20161223T164143Z
+DESCRIPTION:FERIADO até às 12h (quarta-feira)\n
+LAST-MODIFIED:20161223T164236Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170302
+DTEND;VALUE=DATE:20170303
+DTSTAMP:20161223T195631Z
+UID:s8q4en5nk28kijsbvbj509lfig@google.com
+CREATED:20161223T164401Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus IV – Palmitos\n
+LAST-MODIFIED:20161223T164401Z
+LOCATION:Palmitos\, SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170306
+DTEND;VALUE=DATE:20170307
+DTSTAMP:20161223T195631Z
+UID:m786kagiuqgecm4ktvbb09fm9s@google.com
+CREATED:20161223T164644Z
+DESCRIPTION:-Último dia para solicitação de dispensa de disciplina e tranca
+ mento de matrícula\n\n-Último dia para o departamento enviar os resultados 
+ dos processos de ajustes de disciplinas à secretaria de Ensino de Graduação
+  para inclusão no Sistema Acadêmico\n\n-Último dia para a entrega das frequ
+ ências dos calouros\, pelos professores\,\npara efeitos da última chamada d
+ o vestibular de acordo com a Resolução no 005/2014 do Consepe\n\n-Início da
+ s aulas da pós-graduação stricto sensu\n
+LAST-MODIFIED:20161223T164644Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170306
+DTEND;VALUE=DATE:20170318
+DTSTAMP:20161223T195631Z
+UID:7vsd9dhc7nv11hp322qis9f42c@google.com
+CREATED:20161223T165325Z
+DESCRIPTION:Período de matrícula de alunos especiais e ajustes da secretari
+ a da Pós-Graduação stricto sensu\n
+LAST-MODIFIED:20161223T165326Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170307
+DTEND;VALUE=DATE:20170308
+DTSTAMP:20161223T195631Z
+UID:82vsd82mjl4scdoq4dotmvt7fk@google.com
+CREATED:20161223T165454Z
+DESCRIPTION:Reunião da Comissão Própria de Avaliação (CPA)\n
+LAST-MODIFIED:20161223T165455Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170308
+DTEND;VALUE=DATE:20170309
+DTSTAMP:20161223T195631Z
+UID:lkvlb2jkv8ib6m3ebm016m1g6s@google.com
+CREATED:20161223T165540Z
+DESCRIPTION:-Reunião do Consad\n\n-Último dia para a secretaria de Ensino d
+ e Graduação incluir os resultados dos processos de ajustes de disciplinas n
+ o sistema acadêmico\nFERIADO MUNICIPAL - Campus II – Joinville\n\n
+LAST-MODIFIED:20161223T165606Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170309
+DTEND;VALUE=DATE:20170310
+DTSTAMP:20161223T195631Z
+UID:0nta74670gnk4btjokeb2ms58k@google.com
+CREATED:20161223T165834Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus II – Joinville\n
+LAST-MODIFIED:20161223T165834Z
+LOCATION:Joinville - Pirabeiraba\, Joinville - SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170310
+DTEND;VALUE=DATE:20170311
+DTSTAMP:20161223T195631Z
+UID:52cb34a38s2kii0jngl29203bc@google.com
+CREATED:20161223T165948Z
+DESCRIPTION:Período de matrícula em disciplinas isoladas – alunos da Udesc 
+ e alunos externos\n
+LAST-MODIFIED:20161223T170137Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170311
+DTEND;VALUE=DATE:20170312
+DTSTAMP:20161223T195631Z
+UID:5kjm7gaf6agvt3cdnvl3p2ed4o@google.com
+CREATED:20161223T170300Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus V – Ibirama\n
+LAST-MODIFIED:20161223T170300Z
+LOCATION:Ibirama - SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170316
+DTEND;VALUE=DATE:20170317
+DTSTAMP:20161223T195631Z
+UID:ujo0nevnqdjo9khdsibpl1ajoo@google.com
+CREATED:20161223T170401Z
+DESCRIPTION:Matrícula da última chamada de calouros (vestibular Udesc 2017/
+ 1 e Sisu)\n
+LAST-MODIFIED:20161223T170401Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170322
+DTEND;VALUE=DATE:20170323
+DTSTAMP:20161223T195631Z
+UID:gg704vis7rgpklb7h4of0rogj4@google.com
+CREATED:20161223T170635Z
+DESCRIPTION:Matrícula da última chamada de calouros (vestibular Udesc 2017/
+ 1 e Sisu)\nÚltimo dia para a direção de Ensino entregar os planos de ocupaç
+ ão docente e planos de trabalho individual 2017/1\ncom as devidas alteraçõe
+ s\, devidamente justificadas\, para a Proen\, por meio físico\, assinados e
+  datados\n
+LAST-MODIFIED:20161223T170635Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170323
+DTEND;VALUE=DATE:20170324
+DTSTAMP:20161223T195631Z
+UID:92govqhkfch7kfv2t5soefhsfg@google.com
+CREATED:20161223T170716Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus I – Florianópolis\n
+LAST-MODIFIED:20161223T170716Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170327
+DTEND;VALUE=DATE:20170328
+DTSTAMP:20161223T195631Z
+UID:d7a8h3d8ui3mad43tm7r9g3t6g@google.com
+CREATED:20161223T170917Z
+DESCRIPTION:Último dia para recebimento\, pela PROPPG\, dos processos de pó
+ s-graduação para aprovação junto ao Consepe\n
+LAST-MODIFIED:20161223T170917Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170328
+DTEND;VALUE=DATE:20170329
+DTSTAMP:20161223T195631Z
+UID:l3v0bo4i6r4au1i6agvsr0dhek@google.com
+CREATED:20161223T171003Z
+DESCRIPTION:Reunião do Consuni\n
+LAST-MODIFIED:20161223T171004Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170406
+DTEND;VALUE=DATE:20170413
+DTSTAMP:20161223T195631Z
+UID:6ib1dd5mtrladj97b81nn2fdcg@google.com
+CREATED:20161223T171719Z
+DESCRIPTION:Período para requerer transferência interna e reingresso após a
+ bandono\n
+LAST-MODIFIED:20161223T171719Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170406
+DTEND;VALUE=DATE:20170407
+DTSTAMP:20161223T195631Z
+UID:o20cisa6lbn1mf3o7su22bjhts@google.com
+CREATED:20161223T171807Z
+DESCRIPTION:Reunião do Concur\n
+LAST-MODIFIED:20161223T171807Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170411
+DTEND;VALUE=DATE:20170412
+DTSTAMP:20161223T195631Z
+UID:eq30h8chpaik36ccd7nf5g3v74@google.com
+CREATED:20161223T171856Z
+DESCRIPTION:Reunião do Consepe\n
+LAST-MODIFIED:20161223T171856Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170413
+DTEND;VALUE=DATE:20170416
+DTSTAMP:20161223T195631Z
+UID:201kv412npkuecfpi2a810sm18@google.com
+CREATED:20161223T172002Z
+DESCRIPTION:FERIADO NACIONAL – Semana Santa
+LAST-MODIFIED:20161223T172002Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170416
+DTEND;VALUE=DATE:20170417
+DTSTAMP:20161223T195631Z
+UID:c1ujd7k6askepq2a9valpncf94@google.com
+CREATED:20161223T172102Z
+DESCRIPTION:FERIADO NACIONAL – Páscoa (domingo)\n
+LAST-MODIFIED:20161223T172103Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170421
+DTEND;VALUE=DATE:20170422
+DTSTAMP:20161223T195631Z
+UID:vs8r64pvmerbnm3achfe19hc0c@google.com
+CREATED:20161223T172223Z
+DESCRIPTION:FERIADO NACIONAL - Tiradentes (sexta-feira)\n
+LAST-MODIFIED:20161223T172240Z
+LOCATION:Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170422
+DTEND;VALUE=DATE:20170423
+DTSTAMP:20161223T195631Z
+UID:k29sh9587h3b0h22gijiv20qik@google.com
+CREATED:20161223T172332Z
+DESCRIPTION:FERIADO ESCOLAR (sábado)\n
+LAST-MODIFIED:20161223T172332Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170425
+DTEND;VALUE=DATE:20170426
+DTSTAMP:20161223T195631Z
+UID:9dqf21gdelem7tfktad4nb0hrk@google.com
+CREATED:20161223T172422Z
+DESCRIPTION:-Reunião da Comissão Própria de Avaliação (CPA)\n\n-Reunião do 
+ Consad\n
+LAST-MODIFIED:20161223T172422Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170501
+DTEND;VALUE=DATE:20170502
+DTSTAMP:20161223T195631Z
+UID:355sioetu6nuc8baqsd4dpm0no@google.com
+CREATED:20161223T172557Z
+DESCRIPTION:FERIADO NACIONAL – Dia do Trabalho\n
+LAST-MODIFIED:20161223T172557Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170517
+DTEND;VALUE=DATE:20170518
+DTSTAMP:20161223T195631Z
+UID:vavripblotere11cmn9jrbqsf4@google.com
+CREATED:20161223T172708Z
+DESCRIPTION:Reunião do Consuni\n
+LAST-MODIFIED:20161223T172708Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170520
+DTEND;VALUE=DATE:20170521
+DTSTAMP:20161223T195631Z
+UID:mna32kvllungmtabfoompvp1ac@google.com
+CREATED:20161223T172934Z
+DESCRIPTION:Udesc – 52 anos\n
+LAST-MODIFIED:20161223T172934Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170522
+DTEND;VALUE=DATE:20170527
+DTSTAMP:20161223T195631Z
+UID:m0mv8ohe623u2tm3f1ilkp9eas@google.com
+CREATED:20161223T173453Z
+DESCRIPTION:Período para requerer transferência externa\, retorno a portado
+ r de diploma de curso de graduação e retorno para nova habilitação ou nova 
+ formação para alunos da Udesc\n
+LAST-MODIFIED:20161223T173453Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170529
+DTEND;VALUE=DATE:20170530
+DTSTAMP:20161223T195631Z
+UID:bucvsp4qjntbdr9fnvutvet93k@google.com
+CREATED:20161223T173606Z
+DESCRIPTION:Início da Avaliação das Ações dos Cursos e da Udesc – 2017/1\n
+LAST-MODIFIED:20161223T173606Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170530
+DTEND;VALUE=DATE:20170531
+DTSTAMP:20161223T195631Z
+UID:34qcu8u4tpscopgnrmrrrl3v9g@google.com
+CREATED:20161223T173700Z
+DESCRIPTION:I Fórum de Estágio da Udesc\n
+LAST-MODIFIED:20161223T173700Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170601
+DTEND;VALUE=DATE:20170602
+DTSTAMP:20161223T195631Z
+UID:lfam7j6s188r5i562i5bsbcod4@google.com
+CREATED:20161223T173809Z
+DESCRIPTION:Reunião do Consepe\n
+LAST-MODIFIED:20161223T173809Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170604
+DTEND;VALUE=DATE:20170605
+DTSTAMP:20161223T195631Z
+UID:nvohacimbhojegqqmp69kbnscs@google.com
+CREATED:20161223T173914Z
+DESCRIPTION:Vestibular de Inverno 2017/2 
+LAST-MODIFIED:20161223T173914Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170613
+DTEND;VALUE=DATE:20170614
+DTSTAMP:20161223T195631Z
+UID:lm2ml1kd8lq6hcnhhh6753pb7s@google.com
+CREATED:20161223T174039Z
+DESCRIPTION:FERIADO MUNICIPAL – Campus VI – Laguna\n
+LAST-MODIFIED:20161223T174052Z
+LOCATION:Laguna\, SC\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170614
+DTEND;VALUE=DATE:20170615
+DTSTAMP:20161223T195631Z
+UID:s8n61re8dtqg9lafm5eugk0fcg@google.com
+CREATED:20161223T174219Z
+DESCRIPTION:Último dia para a direção de Ensino entregar os planos de ocupa
+ ção docente e planos de trabalho individual\, relativos ao semestre subsequ
+ ente\, aprovadas pelo respectivo departamento e pelo conselho de centro\, p
+ ara a Proen\, por meio digital\n\n
+LAST-MODIFIED:20161223T174234Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170615
+DTEND;VALUE=DATE:20170619
+DTSTAMP:20161223T195631Z
+UID:tf8n6ao5klqgibepnh1k8tmdls@google.com
+CREATED:20161223T174339Z
+DESCRIPTION:Jogos Internos da Udesc/Jiudesc 2017\n
+LAST-MODIFIED:20161223T174339Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170615
+DTEND;VALUE=DATE:20170616
+DTSTAMP:20161223T195631Z
+UID:t2j805ou20bl5nsojs9bkgecv4@google.com
+CREATED:20161223T174957Z
+DESCRIPTION:FERIADO NACIONAL – Corpus Christi (quinta-feira)\n
+LAST-MODIFIED:20161223T174957Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170616
+DTEND;VALUE=DATE:20170617
+DTSTAMP:20161223T195631Z
+UID:h832q4tuhrtdit8h7lubjpi5og@google.com
+CREATED:20161223T175038Z
+DESCRIPTION:FERIADO ESCOLAR (sexta-feira)\n
+LAST-MODIFIED:20161223T175038Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170617
+DTEND;VALUE=DATE:20170618
+DTSTAMP:20161223T195631Z
+UID:klncb5nd3oeobqnnqgoj07vb70@google.com
+CREATED:20161223T175137Z
+DESCRIPTION:FERIADO ESCOLAR (sábado)\n
+LAST-MODIFIED:20161223T175137Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170618
+DTEND;VALUE=DATE:20170619
+DTSTAMP:20161223T195631Z
+UID:33oqp250n89m4841jglhl2ef9s@google.com
+CREATED:20161223T175230Z
+DESCRIPTION:Final da Avaliação das Ações dos Cursos e da Udesc - 2017/1\n
+LAST-MODIFIED:20161223T175230Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170622
+DTEND;VALUE=DATE:20170623
+DTSTAMP:20161223T195631Z
+UID:uac3ol5f6no2mqv581eqpb0nno@google.com
+CREATED:20161223T175325Z
+DESCRIPTION:Reunião do Consad\n
+LAST-MODIFIED:20161223T175325Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170623
+DTEND;VALUE=DATE:20170624
+DTSTAMP:20161223T195631Z
+UID:omb6heiirssetc4hcnmdt1qrc8@google.com
+CREATED:20161223T175425Z
+DESCRIPTION:Término do semestre da pós-graduação\n
+LAST-MODIFIED:20161223T175425Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170627
+DTEND;VALUE=DATE:20170628
+DTSTAMP:20161223T195631Z
+UID:opsqrr32djkom42i88g3uu6h5o@google.com
+CREATED:20161223T175503Z
+DESCRIPTION:Reunião da Comissão Própria de Avaliação (CPA)\n
+LAST-MODIFIED:20161223T175503Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170703
+DTEND;VALUE=DATE:20170704
+DTSTAMP:20161223T195631Z
+UID:se16d0ni9lfvnivtudhi2arbkg@google.com
+CREATED:20161223T175712Z
+DESCRIPTION:-Último dia para inclusão das frequências\, avaliações e médias
+  semestrais\, pelos professores\, no Sistema Acadêmico\n\n-Término do perío
+ do letivo\n
+LAST-MODIFIED:20161223T175747Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicação (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170704
+DTEND;VALUE=DATE:20170711
+DTSTAMP:20161223T195631Z
+UID:u3mapj2javegas4cf8g7n4uid8@google.com
+CREATED:20161223T175840Z
+DESCRIPTION:Período para apresentação de justificativa à direção de Ensino 
+ em função de reprovação por frequência em 2017/1 (Resolução no 018/2015 do 
+ Consepe\n
+LAST-MODIFIED:20161223T175840Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170705
+DTEND;VALUE=DATE:20170712
+DTSTAMP:20161223T195631Z
+UID:1bem5at6qtntq432vm79s28co8@google.com
+CREATED:20161223T180045Z
+DESCRIPTION:Período de exames finais\n
+LAST-MODIFIED:20161223T180045Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170711
+DTEND;VALUE=DATE:20170712
+DTSTAMP:20161223T195631Z
+UID:624pseh5pnf9rrr1slp9965h04@google.com
+CREATED:20161223T181328Z
+DESCRIPTION:Último dia para inclusão das avaliações dos exames e médias fin
+ ais\, pelos professores\, no Sistema Acadêmico e entrega dos diários de cla
+ sse na secretaria de Ensino de Pós-Graduação
+LAST-MODIFIED:20161223T181328Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170712
+DTEND;VALUE=DATE:20170723
+DTSTAMP:20161223T195631Z
+UID:aku3ff10bnor7d3p0uk2bb507g@google.com
+CREATED:20161223T181430Z
+DESCRIPTION:Operação do Núcleo Rondon Udesc 2017/2\n
+LAST-MODIFIED:20161223T181505Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170705
+DTEND;VALUE=DATE:20170706
+DTSTAMP:20161223T195631Z
+UID:ubd34sdhln01rdavhfq0n4rp3g@google.com
+CREATED:20161223T180210Z
+DESCRIPTION:Último dia para recebimento\, pela PROPPG\, dos processos de pó
+ s-graduação para aprovação junto ao Consepe\n
+LAST-MODIFIED:20161223T181602Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170713
+DTEND;VALUE=DATE:20170714
+DTSTAMP:20161223T195631Z
+UID:ite9u8ab75ah2hchm2gj40hed8@google.com
+CREATED:20161223T181813Z
+DESCRIPTION:-Último dia para inclusão das avaliações dos exames e médias fi
+ nais\, pelos professores\, no Sistema Acadêmico e entrega dos diários de cl
+ asse na secretaria de Ensino de Graduação\n\n-Término do Semestre\n\n-Reuni
+ ão do Consuni\n
+LAST-MODIFIED:20161223T181813Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170717
+DTEND;VALUE=DATE:20170719
+DTSTAMP:20161223T195631Z
+UID:06enps6frsjh3p0fc2rluu9meg@google.com
+CREATED:20161223T182025Z
+DESCRIPTION:-Período de matrícula dos calouros de 1ª chamada\n\n-Período de
+  matrícula de ingressantes e veteranos da pós-graduação stricto sensu\n
+LAST-MODIFIED:20161223T182025Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicação (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170720
+DTEND;VALUE=DATE:20170721
+DTSTAMP:20161223T195631Z
+UID:70ohql0n8ltvip9k27op7nf9ho@google.com
+CREATED:20161223T182155Z
+DESCRIPTION:FERIADO MUNICIPAL – Campus V - Balneário Camboriú
+LAST-MODIFIED:20161223T182155Z
+LOCATION:Balneário Camboriú\, SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170720
+DTEND;VALUE=DATE:20170724
+DTSTAMP:20161223T195631Z
+UID:uavc266gevq6mo548v15gbpbi8@google.com
+CREATED:20161223T182335Z
+DESCRIPTION:Período de matrícula de veteranos de acordo com critérios de or
+ denação - Udesc Joinville e Udesc Lages\n
+LAST-MODIFIED:20161223T182335Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170724
+DTEND;VALUE=DATE:20170729
+DTSTAMP:20161223T195631Z
+UID:4vl9dndj6ilf1i2pabuif43894@google.com
+CREATED:20161223T182420Z
+DESCRIPTION:IV Semana de Educação Continuada da Udesc\n
+LAST-MODIFIED:20161223T182421Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170725
+DTEND;VALUE=DATE:20170729
+DTSTAMP:20161223T195631Z
+UID:m2ue1t3jl70s4dv3o7qmrlip7k@google.com
+CREATED:20161223T182612Z
+DESCRIPTION:Período de matrícula de veteranos de acordo com critérios de or
+ denação – Udesc Ceart\, Udesc Cefid\, Udesc Esag\, Udesc Faed\, Udesc Plana
+ lto Norte\, Udesc Cead\, Udesc Oeste\, Udesc Ibirama\, Udesc Balneário Camb
+ orú e Udesc Laguna\n
+LAST-MODIFIED:20161223T182612Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170727
+DTEND;VALUE=DATE:20170729
+DTSTAMP:20161223T195631Z
+UID:44o6khcd4lipllm7lb0l7ctup4@google.com
+CREATED:20161223T182746Z
+DESCRIPTION:Período para requerer exame de suficiência
+LAST-MODIFIED:20161223T182746Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170727
+DTEND;VALUE=DATE:20170802
+DTSTAMP:20161223T195631Z
+UID:i7oe6kgcop319kjttc7ur4othc@google.com
+CREATED:20161223T182906Z
+DESCRIPTION:Período de matrícula de acadêmicos em mobilidade para a Udesc\n
+LAST-MODIFIED:20161223T182906Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170729
+DTEND;VALUE=DATE:20170802
+DTSTAMP:20161223T195631Z
+UID:lquh81f88q901296h0o83vvpos@google.com
+CREATED:20161223T183024Z
+DESCRIPTION:Período para ajuste de matrícula on-line pelos acadêmicos\n
+LAST-MODIFIED:20161223T183025Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170801
+DTEND;VALUE=DATE:20170802
+DTSTAMP:20161223T195631Z
+UID:m39430v0eh34gmbltk0pnbm07g@google.com
+CREATED:20161223T183631Z
+DESCRIPTION:-Início do período letivo\n\n-Reunião do Consepe\n\n-Início das
+  aulas da pós-graduação stricto sensu\n
+LAST-MODIFIED:20161223T183631Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170801
+DTEND;VALUE=DATE:20170803
+DTSTAMP:20161223T195631Z
+UID:j0o1chvvde3qfiqiflfmcdbo28@google.com
+CREATED:20161223T183735Z
+DESCRIPTION:-Período para realização de exame de suficiência\n\n-Período pa
+ ra solicitação pelos acadêmicos de ajuste de matrícula via secretaria de \n
+ Ensino de Graduação/departamento do curso\n
+LAST-MODIFIED:20161223T183735Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170801
+DTEND;VALUE=DATE:20170812
+DTSTAMP:20161223T195631Z
+UID:n34hd17ias3idd788vu32mlt4k@google.com
+CREATED:20161223T183846Z
+DESCRIPTION:Período de matrícula de alunos especiais e ajustes da secretari
+ a da pós-graduação stricto sensu
+LAST-MODIFIED:20161223T183846Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170807
+DTEND;VALUE=DATE:20170809
+DTSTAMP:20161223T195631Z
+UID:96nnf6kq4adsgs1cukfl10qklk@google.com
+CREATED:20161223T184057Z
+DESCRIPTION:Período de matrícula dos acadêmicos que ingressaram na Udesc po
+ r transferência externa\, transferência interna\, retornos e reingressos pa
+ ra 2017/2
+LAST-MODIFIED:20161223T184057Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170809
+DTEND;VALUE=DATE:20170810
+DTSTAMP:20161223T195631Z
+UID:pao5qeu289qouh14h4tfrhgt40@google.com
+CREATED:20161223T184156Z
+DESCRIPTION:-Último dia para solicitação de dispensa de disciplina e tranca
+ mento de matrícula\n\n-Último dia para o departamento enviar os resultados 
+ dos processos de ajustes de disciplinas à secretaria de Ensino de Graduação
+ \npara inclusão no Sistema Acadêmico\n
+LAST-MODIFIED:20161223T184157Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170811
+DTEND;VALUE=DATE:20170812
+DTSTAMP:20161223T195631Z
+UID:3hstvht9b7b05titrl5t768iu0@google.com
+CREATED:20161223T184550Z
+DESCRIPTION:-Último dia para a secretaria de Ensino de Graduação incluir os
+  resultados dos processos de ajustes de disciplinas no Sistema Acadêmico\n\
+ n-Último dia para a entrega das frequências dos calouros\, pelos professore
+ s\, para efeitos da última chamada do vestibular\, de acordo com a Resoluçã
+ o no 5/2014 do Consepe\n
+LAST-MODIFIED:20161223T184550Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170814
+DTEND;VALUE=DATE:20170815
+DTSTAMP:20161223T195631Z
+UID:lugqbklmub3j998o1dfb2r0fhk@google.com
+CREATED:20161223T184643Z
+DESCRIPTION:Período de matrícula em disciplinas isoladas – alunos da Udesc 
+ e alunos externos\n
+LAST-MODIFIED:20161223T184643Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170815
+DTEND;VALUE=DATE:20170816
+DTSTAMP:20161223T195631Z
+UID:1352ir4sc04hnlnpld9p3qrgqo@google.com
+CREATED:20161223T184752Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus III – Lages\n
+LAST-MODIFIED:20161223T184752Z
+LOCATION:Lages\, SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170816
+DTEND;VALUE=DATE:20170817
+DTSTAMP:20161223T195631Z
+UID:2iklg0u8frmdtus4qg5iujifpo@google.com
+CREATED:20161223T184836Z
+DESCRIPTION:-Reunião do Consad\n\n-Dia do Egresso\n
+LAST-MODIFIED:20161223T184836Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170817
+DTEND;VALUE=DATE:20170818
+DTSTAMP:20161223T195631Z
+UID:97gbhudb3q3t917l8rpeprb0tg@google.com
+CREATED:20161223T184935Z
+DESCRIPTION:Último dia para recebimento\, pela PROPPG\, dos processos de pó
+ s-graduação para aprovação junto ao Consepe\n
+LAST-MODIFIED:20161223T184935Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170825
+DTEND;VALUE=DATE:20170826
+DTSTAMP:20161223T195631Z
+UID:6iifd5ef4f5fqmuclardnbccso@google.com
+CREATED:20161223T185121Z
+DESCRIPTION:-FERIADO MUNICIPAL - Campus IV - Chapecó\n
+LAST-MODIFIED:20161223T185159Z
+LOCATION:Chapecó\, SC\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170825
+DTEND;VALUE=DATE:20170826
+DTSTAMP:20161223T195631Z
+UID:s6acmblphh9dk1o0vio7fvhvq0@google.com
+CREATED:20161223T185259Z
+DESCRIPTION:Matrícula da última chamada de calouros (vestibular Udesc 2017/
+ 2 e Sisu)\n
+LAST-MODIFIED:20161223T185259Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170829
+DTEND;VALUE=DATE:20170830
+DTSTAMP:20161223T195631Z
+UID:vqrf4fdhofhrp1s75ufqv2sv3k@google.com
+CREATED:20161223T185353Z
+DESCRIPTION:Reunião da Comissão Própria de Avaliação (CPA)\n
+LAST-MODIFIED:20161223T185354Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170831
+DTEND;VALUE=DATE:20170901
+DTSTAMP:20161223T195631Z
+UID:pdvuogabkfmhke8rjhqmmggq4k@google.com
+CREATED:20161223T185457Z
+DESCRIPTION:Último dia para a direção de Ensino entregar os planos de ocupa
+ ção docente e planos de trabalho individual 2017/2 com as devidas alteraçõe
+ s\, devidamente justificadas\, para a Proen\, por meio físico\, assinados e
+  datados
+LAST-MODIFIED:20161223T185458Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170901
+DTEND;VALUE=DATE:20171001
+DTSTAMP:20161223T195631Z
+UID:iikgfbuekphfhhdcdv3tqkqmhs@google.com
+CREATED:20161223T190432Z
+DESCRIPTION:27º Seminário de Iniciação Científica da Udesc\n
+LAST-MODIFIED:20161223T190432Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170905
+DTEND;VALUE=DATE:20170906
+DTSTAMP:20161223T195631Z
+UID:p1jaj1gsdc6e9oqvkd3kasp180@google.com
+CREATED:20161223T190529Z
+DESCRIPTION:Reunião do Consuni\n
+LAST-MODIFIED:20161223T190529Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170907
+DTEND;VALUE=DATE:20170908
+DTSTAMP:20161223T195631Z
+UID:fc4ambpqqt515pitoh24gool8s@google.com
+CREATED:20161223T190634Z
+DESCRIPTION:FERIADO NACIONAL – INDEPENDÊNCIA DO BRASIL (quinta-feira)\n
+LAST-MODIFIED:20161223T190635Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170908
+DTEND;VALUE=DATE:20170909
+DTSTAMP:20161223T195631Z
+UID:pvtruebobvjoc5610d1fsmtp4s@google.com
+CREATED:20161223T190728Z
+DESCRIPTION:FERIADO ESCOLAR (sexta-feira)\n
+LAST-MODIFIED:20161223T190728Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170909
+DTEND;VALUE=DATE:20170910
+DTSTAMP:20161223T195631Z
+UID:7gt2s1ct9alsdnf5dni0j38sn8@google.com
+CREATED:20161223T190808Z
+DESCRIPTION:FERIADO ESCOLAR (sábado)\n
+LAST-MODIFIED:20161223T190808Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170911
+DTEND;VALUE=DATE:20170916
+DTSTAMP:20161223T195631Z
+UID:bnicjhk5dcpiog6l27rbg9abpo@google.com
+CREATED:20161223T190911Z
+DESCRIPTION:Período para requerer transferência interna e reingresso após a
+ bandono\n
+LAST-MODIFIED:20161223T190912Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170920
+DTEND;VALUE=DATE:20170921
+DTSTAMP:20161223T195631Z
+UID:8r4eaqns71mp5g7k1s4rjmbp34@google.com
+CREATED:20161223T191014Z
+DESCRIPTION:Reunião do Consepe
+LAST-MODIFIED:20161223T191014Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170921
+DTEND;VALUE=DATE:20170922
+DTSTAMP:20161223T195631Z
+UID:7437fa7r4r725udv3fr4s91eq4@google.com
+CREATED:20161223T191055Z
+DESCRIPTION:2º Fórum de Licenciaturas da Udesc\n
+LAST-MODIFIED:20161223T191056Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20170924
+DTSTAMP:20161223T195631Z
+UID:edrembf9bo1f0qhu8op1k7lml4@google.com
+CREATED:20161223T191245Z
+DESCRIPTION:FERIADO MUNICIPAL – Campus II - São Bento do Sul\n
+LAST-MODIFIED:20161223T191246Z
+LOCATION:São Bento do Sul\, SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171003
+DTEND;VALUE=DATE:20171004
+DTSTAMP:20161223T195631Z
+UID:qt8v7oid8rgv166u3ajuk75r7c@google.com
+CREATED:20161223T191614Z
+DESCRIPTION:Reunião da Comissão Própria de Avaliação (CPA)\n
+LAST-MODIFIED:20161223T191656Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171005
+DTEND;VALUE=DATE:20171006
+DTSTAMP:20161223T195631Z
+UID:2t7kvfck3h38hb7b0anigaot2s@google.com
+CREATED:20161223T191648Z
+DESCRIPTION:Reunião da ComissãoReunião do Consad\n
+LAST-MODIFIED:20161223T191705Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171012
+DTEND;VALUE=DATE:20171013
+DTSTAMP:20161223T195631Z
+UID:fpa89rm5frnuq7lcujucss6pq4@google.com
+CREATED:20161223T191832Z
+DESCRIPTION:FERIADO NACIONAL – Nossa Senhora Aparecida (quinta-feira)\n
+LAST-MODIFIED:20161223T191841Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171013
+DTEND;VALUE=DATE:20171014
+DTSTAMP:20161223T195631Z
+UID:r7j4lid2k14e0v8593lbnihgfc@google.com
+CREATED:20161223T191945Z
+DESCRIPTION:FERIADO ESCOLAR (sexta-feira)\n
+LAST-MODIFIED:20161223T191953Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171014
+DTEND;VALUE=DATE:20171015
+DTSTAMP:20161223T195631Z
+UID:9hcj64uqfij6k2fn532koh6h3k@google.com
+CREATED:20161223T192049Z
+DESCRIPTION:FERIADO ESCOLAR (sábado)\n
+LAST-MODIFIED:20161223T192053Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171015
+DTEND;VALUE=DATE:20171016
+DTSTAMP:20161223T195631Z
+UID:0jippd6umni7r75i1e5onjf5uo@google.com
+CREATED:20161223T192154Z
+DESCRIPTION:Dia do Professor
+LAST-MODIFIED:20161223T192155Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171016
+DTEND;VALUE=DATE:20171017
+DTSTAMP:20161223T195631Z
+UID:5ecrplbbljmqa9d700o97ca430@google.com
+CREATED:20161223T192241Z
+DESCRIPTION:Último dia para recebimento\, pela PROPPG\, dos processos de pó
+ s-graduação para aprovação junto ao Consepe\n
+LAST-MODIFIED:20161223T192241Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicação (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171017
+DTEND;VALUE=DATE:20171018
+DTSTAMP:20161223T195631Z
+UID:plgialeq6sp7rg4a7kqteqov9c@google.com
+CREATED:20161223T192415Z
+DESCRIPTION:Reunião do Concur\n
+LAST-MODIFIED:20161223T192422Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171021
+DTSTAMP:20161223T195631Z
+UID:83i3b8mhs305m0pr78ih59mijc@google.com
+CREATED:20161223T192522Z
+DESCRIPTION:13º Encontro de Extensão e 8o Encontro de Rondonistas da Udesc\
+ n
+LAST-MODIFIED:20161223T192522Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171023
+DTEND;VALUE=DATE:20171024
+DTSTAMP:20161223T195631Z
+UID:qg6olkjdbvc7jfrodjf1uamo70@google.com
+CREATED:20161223T192624Z
+DESCRIPTION:Início da Avaliação das Ações dos Cursos e da Udesc - 2017/2\n
+LAST-MODIFIED:20161223T192624Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171023
+DTEND;VALUE=DATE:20171028
+DTSTAMP:20161223T195631Z
+UID:ius957vejl49mj08fps3m886m0@google.com
+CREATED:20161223T192718Z
+DESCRIPTION:-Período para requerer transferência externa\, retorno a portad
+ or de diploma de curso de graduação e retorno para nova habilitação ou nova
+  formação para alunos da Udesc\n\n-Semana do Servidor
+LAST-MODIFIED:20161223T192718Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171026
+DTEND;VALUE=DATE:20171027
+DTSTAMP:20161223T195631Z
+UID:fekth30s5hk65ahj9ksr5sv08g@google.com
+CREATED:20161223T192758Z
+DESCRIPTION:Reunião do Consuni\n
+LAST-MODIFIED:20161223T192758Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171028
+DTEND;VALUE=DATE:20171029
+DTSTAMP:20161223T195631Z
+UID:3e75b7p5qro18bgap099h1bnd4@google.com
+CREATED:20161223T192926Z
+DESCRIPTION:FERIADO – COMEMORAÇÃO DO DIA DO FUNCIONÁRIO PÚBLICO (sábado)\n
+LAST-MODIFIED:20161223T192932Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171031
+DTEND;VALUE=DATE:20171101
+DTSTAMP:20161223T195631Z
+UID:a1s0rd45gra81i0l565g39tn3g@google.com
+CREATED:20161223T193107Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus IV – Palmitos\n
+LAST-MODIFIED:20161223T193107Z
+LOCATION:Palmitos\, SC\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171102
+DTEND;VALUE=DATE:20171103
+DTSTAMP:20161223T195631Z
+UID:on7i75icku09l686qruecnod6k@google.com
+CREATED:20161223T193155Z
+DESCRIPTION:FERIADO NACIONAL – FINADOS (quinta-feira)\n
+LAST-MODIFIED:20161223T193156Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171103
+DTEND;VALUE=DATE:20171104
+DTSTAMP:20161223T195631Z
+UID:jd6a2ff1bdk322ovi2m34sa4a0@google.com
+CREATED:20161223T193230Z
+DESCRIPTION:FERIADO ESCOLAR (sexta-feira)\n
+LAST-MODIFIED:20161223T193230Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171105
+DTSTAMP:20161223T195631Z
+UID:hpd5h7oddruo5rtvmkm1l30lhs@google.com
+CREATED:20161223T193347Z
+DESCRIPTION:FERIADO ESCOLAR (sábado)\n
+LAST-MODIFIED:20161223T193353Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171109
+DTEND;VALUE=DATE:20171110
+DTSTAMP:20161223T195631Z
+UID:uo0jtl5bscmn052qpolte46qgs@google.com
+CREATED:20161223T193446Z
+DESCRIPTION:Reunião do Consepe\n
+LAST-MODIFIED:20161223T193446Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171110
+DTEND;VALUE=DATE:20171111
+DTSTAMP:20161223T195631Z
+UID:mjhqq50sb7uiqf9lu13uchelr4@google.com
+CREATED:20161223T193544Z
+DESCRIPTION:Término do semestre da pós-graduação\n
+LAST-MODIFIED:20161223T193544Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171112
+DTEND;VALUE=DATE:20171113
+DTSTAMP:20161223T195631Z
+UID:ua1m4ma1amchtmj251u3h8rp0g@google.com
+CREATED:20161223T193702Z
+DESCRIPTION:-Vestibular de Verão 2018/1\n\n-Final da Avaliação das Ações do
+ s Cursos e da Udesc - 2017/2
+LAST-MODIFIED:20161223T193702Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicação (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171115
+DTEND;VALUE=DATE:20171116
+DTSTAMP:20161223T195631Z
+UID:umqge2423f1doapddjeb2oq3uc@google.com
+CREATED:20161223T193827Z
+DESCRIPTION:FERIADO NACIONAL – PROCLAMAÇÃO DA REPÚBLICA (quarta-feira)\n
+LAST-MODIFIED:20161223T193827Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171117
+DTEND;VALUE=DATE:20171118
+DTSTAMP:20161223T195631Z
+UID:bb9l5rreg0i5oj8i14p091kpok@google.com
+CREATED:20161223T193912Z
+DESCRIPTION:Último dia para a direção de Ensino entregar os planos de ocupa
+ ção docente e planos de trabalho individual\, relativos ao semestre subsequ
+ ente\, aprovadas pelo respectivo departamento e pelo conselho de centro\, p
+ ara a Proen\, por meio digital\n
+LAST-MODIFIED:20161223T193913Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171124
+DTEND;VALUE=DATE:20171127
+DTSTAMP:20161223T195631Z
+UID:h8mgvgqfsj9f1ahsbavq9sbrqc@google.com
+CREATED:20161223T194012Z
+DESCRIPTION:Jogos de Integração dos servidores da Udesc/Jisudesc 2017\n
+LAST-MODIFIED:20161223T194119Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171128
+DTEND;VALUE=DATE:20171129
+DTSTAMP:20161223T195631Z
+UID:hrkfasvlleg5i2n1uoitcrnvr4@google.com
+CREATED:20161223T194202Z
+DESCRIPTION:Reunião do Consad\n
+LAST-MODIFIED:20161223T194202Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171206
+DTEND;VALUE=DATE:20171207
+DTSTAMP:20161223T195631Z
+UID:spkvlk5kn7of5qf94q6ne7r93g@google.com
+CREATED:20161223T194253Z
+DESCRIPTION:FERIADO MUNICIPAL - Campus IV - Pinhalzinho\n
+LAST-MODIFIED:20161223T194314Z
+LOCATION:Pinhalzinho - SC\, Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171208
+DTEND;VALUE=DATE:20171209
+DTSTAMP:20161223T195631Z
+UID:lpidjs7rggmct0b4dta3mauns4@google.com
+CREATED:20161223T194822Z
+DESCRIPTION:-Último dia para inclusão das frequências\, avaliações e médias
+  semestrais\, pelos professores\, no Sistema Acadêmico\n\n-Término do perío
+ do letivo
+LAST-MODIFIED:20161223T194822Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171211
+DTEND;VALUE=DATE:20171216
+DTSTAMP:20161223T195631Z
+UID:vere9u170osma3c9k7ohac8ooc@google.com
+CREATED:20161223T194919Z
+DESCRIPTION:Período para apresentação de justificativa à direção de Ensino 
+ em função de reprovação por frequência em 2017/2 (Resolução no 018/2015 do 
+ Consepe)\n
+LAST-MODIFIED:20161223T194920Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171211
+DTEND;VALUE=DATE:20171212
+DTSTAMP:20161223T195631Z
+UID:00s61nku0ta9j57acd0cpo5scc@google.com
+CREATED:20161223T195057Z
+DESCRIPTION:Último dia para inclusão das avaliações dos exames e médias fin
+ ais\, pelos professores\, no Sistema Acadêmico e entrega dos diários de cla
+ sse na secretaria de Ensino de Pós-Graduação
+LAST-MODIFIED:20161223T195057Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171211
+DTEND;VALUE=DATE:20171216
+DTSTAMP:20161223T195631Z
+UID:5qffq22guq7d0aqblm4h0gsjg8@google.com
+CREATED:20161223T195210Z
+DESCRIPTION:Período de exames finais\n
+LAST-MODIFIED:20161223T195210Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171212
+DTEND;VALUE=DATE:20171213
+DTSTAMP:20161223T195631Z
+UID:o4s7gn578evdjf9voc32c2mc6s@google.com
+CREATED:20161223T195301Z
+DESCRIPTION:Reunião da Comissão Própria de Avaliação (CPA)
+LAST-MODIFIED:20161223T195310Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171214
+DTEND;VALUE=DATE:20171215
+DTSTAMP:20161223T195631Z
+UID:ei6i0tnnrqsu9q411vf54og3mo@google.com
+CREATED:20161223T195423Z
+DESCRIPTION:Reunião do Consuni\n
+LAST-MODIFIED:20161223T195423Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171218
+DTEND;VALUE=DATE:20171219
+DTSTAMP:20161223T195631Z
+UID:rcmd52sph82jvuivacp5rhsrqo@google.com
+CREATED:20161223T195520Z
+DESCRIPTION:-Último dia para inclusão das avaliações dos exames e médias fi
+ nais\, pelos professores\, no Sistema Acadêmico e entrega dos diários de cl
+ asse na secretaria de Ensino de Graduação\n\n-Término do semestre
+LAST-MODIFIED:20161223T195520Z
+LOCATION:Universidade do Estado de Santa Catarina\, Centro de Ciências Tecn
+ ológicas\, Joinville\, Campus Universitário Prof. Avelino Marcante - Rua Pa
+ ulo Malschitzki\, 200 - Zona Industrial Norte\, Joinville - SC\, 89219-710
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171220
+DTEND;VALUE=DATE:20171221
+DTSTAMP:20161223T195631Z
+UID:tfr0di1t8mil3upodv3t9uk90g@google.com
+CREATED:20161223T195601Z
+DESCRIPTION:FERIADO NACIONAL - NATAL
+LAST-MODIFIED:20161223T195601Z
+LOCATION:Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Comunicado (em Descrição)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P6DT15H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:nicolas@colmeia.udesc.br
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
