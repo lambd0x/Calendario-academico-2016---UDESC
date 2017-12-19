@@ -1,6 +1,6 @@
 # Calendario-academico---UDESC
 
-# Razão para a criação  
+_Razão para a criação_ 
 A fim de prover maior organização com datas e eventos importantes no decorrer dos semestres da UDESC, foi criado um arquivo de calendário eletrônico a partir do Calendário Acadêmico anualmente provido pela UDESC. 
 
 # Características presentes
