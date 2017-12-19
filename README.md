@@ -25,4 +25,4 @@ Basta importar o arquivo desejado para uma aplicação tal como fora mencionado 
 | :---: | :---:       |
 | 2016  | disponível  |
 | 2017  | disponível  |
-| 2018  | sendo feito |
+| 2018  | disponível  |
